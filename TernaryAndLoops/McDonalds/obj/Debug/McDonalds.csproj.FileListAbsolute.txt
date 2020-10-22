@@ -1,0 +1,2 @@
+C:\Users\mmajo\source\repos\TernaryAndLoops\McDonalds\obj\Debug\McDonalds.csprojAssemblyReference.cache
+C:\Users\mmajo\source\repos\TernaryAndLoops\McDonalds\obj\Debug\McDonalds.csproj.CoreCompileInputs.cache

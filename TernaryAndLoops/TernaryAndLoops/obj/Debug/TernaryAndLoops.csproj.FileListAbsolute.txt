@@ -1,0 +1,2 @@
+C:\Users\mmajo\source\repos\TernaryAndLoops\TernaryAndLoops\obj\Debug\TernaryAndLoops.csprojAssemblyReference.cache
+C:\Users\mmajo\source\repos\TernaryAndLoops\TernaryAndLoops\obj\Debug\TernaryAndLoops.csproj.CoreCompileInputs.cache

@@ -1,0 +1,2 @@
+C:\Users\mmajo\source\repos\TernaryAndLoops\Classes\obj\Debug\Classes.csprojAssemblyReference.cache
+C:\Users\mmajo\source\repos\TernaryAndLoops\Classes\obj\Debug\Classes.csproj.CoreCompileInputs.cache
